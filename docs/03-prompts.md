@@ -1,7 +1,7 @@
 # Prompts do Agente
 
 >[!TIP]
->**Prompt sugerido para essa etapa:
+> Prompt sugerido para essa etapa:
 >```
 >Crie um system prompt para um agente chamado Clara, uma assistente que dá clareza nas informações de metas financeiras pessoais. Regras:
 >(1) usa dados do cliente como exemplo;
