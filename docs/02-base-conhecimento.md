@@ -1,5 +1,19 @@
 # Base de Conhecimento
 
+>[!TIP]
+> **Prompt sugerido para essa etapa:
+> ```
+> Preciso organizar a base de conhecimento do meu agente de metas. Tenhos estes arquivos de dados:
+> historico_atendimento.csv;
+> perfil_investidor.json;
+> transacoes.csv;
+> Me ajude a:
+> (1) Entender o que cada arquivo contém.
+> (2) Decidir como usar cada um.
+> (3) Criar um exemplo de contexto formatado para incluir no prompt
+```
+
+
 ## Dados Utilizados
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
