@@ -1,7 +1,7 @@
 # Base de Conhecimento
 
 >[!TIP]
-> **Prompt sugerido para essa etapa:
+> Prompt sugerido para essa etapa:
 > ```
 > Preciso organizar a base de conhecimento do meu agente de metas. Tenhos estes arquivos de dados:
 > historico_atendimento.csv;
