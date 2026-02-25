@@ -1,5 +1,10 @@
 # Documentação do Agente
 
+>[!TIP]
+> **Prompt sugerido para essa etapa:**
+
+> Me ajude a documentar um agente de IA para metas financeiras. O caso de uso é: Guardar dinheiro para uma meta específica. Atualmente: As pessoas querem juntar dinheiro (viagem, carro, reserva de emergência), mas não sabem quanto precisam guardar por mês. O público alvo são pessoas com objetivos financeiros de curto e médio prazo. O nome do agente é Clara, tendo a personalidade acolhedora, educativa, paciente, usando exemplos práticos, motivadora, nunca julga os gastos do cliente. Com o tom de voz informal, acessível e didático.
+
 ## Caso de Uso
 
 ### Problema
