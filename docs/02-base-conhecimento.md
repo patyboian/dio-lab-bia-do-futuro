@@ -2,7 +2,7 @@
 
 >[!TIP]
 > Prompt sugerido para essa etapa:
-> ```
+> 
 > Preciso organizar a base de conhecimento do meu agente de metas. Tenhos estes arquivos de dados:
 > historico_atendimento.csv;
 > perfil_investidor.json;
@@ -11,7 +11,8 @@
 > (1) Entender o que cada arquivo contém.
 > (2) Decidir como usar cada um.
 > (3) Criar um exemplo de contexto formatado para incluir no prompt
-```
+
+
 
 
 ## Dados Utilizados
@@ -43,13 +44,9 @@ Existem duas possibilidades, injetar os dados diretamente no prompt (Ctrl + C, C
 import pandas as pd
 import json
 
-#CSV
-historico = pd.read_csv('data/historico_atendimento.csv')
-transacoes = pd.read_csv('data/transacoes.csv')
-
-#Json
-whith open ('data/perfil_investidor.json', 'r', encoding-'utf-8') as f:
-    perfil = json.load(f)
+perfil = json.load(open('./data/perfil_investidor.json'))
+transacoes = pd.read_csv(open('./data/historico_atendimento.csv'))
+historico = pd.read_csv(open('./data/transacoes.csv'))
 ```
 
 ### Como os dados são usados no prompt?
