@@ -82,6 +82,5 @@ A Clara transforma sonhos em planos reais e alcançáveis.
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+> Clique aqui para assistir ao pitch da Clara:
+[▶️ Assistir ao vídeo](./docs/Pitch_Clara_.mp4)
