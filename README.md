@@ -42,3 +42,9 @@ F --> C
 
 C --> G[Resposta Personalizada e Segura]
 G --> A
+
+```
+## Link do Vídeo
+
+> Clique aqui para assistir ao pitch da Clara:
+[▶️ Assistir ao vídeo](./Pitch_Clara_.mp4)
